@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author: Steelfreak Kinen Key Samson 
+# Author: Steelfreak Kinen Key Samson
 """Defines a Rectangle class."""
 
 
